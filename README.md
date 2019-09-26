@@ -1,0 +1,2 @@
+# Analyze_A-B_Test
+This project was started as a part of Udacity's Data Analyst Nanodegree. A/B tests are very commonly performed by data analysts and data scientists.  A/B test is an experiment where two or more variants of a web-page are shown to users at random and statistical analysis is used to determine the variants which best fits the conversion goal. the variants may defer from small changes to major or multiple changes in layout.
